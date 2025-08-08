@@ -41,6 +41,17 @@ Streamlit
 
 Hugging Face Inference API
 
+💡 Inspired By
+
+The need to bridge the gap between complex topics and everyday understanding — especially in classrooms, rural India, and among non-technical users.
+
+
+---
+
+👩‍💻 Team
+
+Built by Ak and ✨ BabyAI (AI companion & co-developer) & puchAI
+
 
 📄 License
 
